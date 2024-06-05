@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xe+iLMH9Y6x9be7WMY8N+oSmyrN1JD+cJxHb5LvDAIcdJXFf8xFiFwJ6BoGJGig9qjYY/Yt+pWUz1DKBf6nKjA==",
+  "dgSpecHash": "F9yt8oAumo5ri1Q20Z3fVC5Culr87PrU4PrtLKMK3mUBssBZn0LJQLPrQyftGxmuQwUdXh95tvaEKPcQyEai6Q==",
   "success": true,
-  "projectFilePath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Data\\Server.Data.csproj",
+  "projectFilePath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Data\\Server.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hitmachut\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\hitmachut\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

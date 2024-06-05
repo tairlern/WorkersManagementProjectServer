@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VnM+VInWTSwj1P+41xw1ZOqBV2RecS/Sa3bxtMkZ1wkauAB+SJOnhdru2SPtpugpDPGC1aK379bgyKsd8JyKRg==",
+  "dgSpecHash": "ljq+TvzERe4pNh0px1JXLtb/OdJew0rqAhCcpVhk/Nuax7Z9kdTpv1Ngc1G5ySjho+dfJwggw7ZiRre7OjyE1Q==",
   "success": true,
-  "projectFilePath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Service\\Server.Service.csproj",
+  "projectFilePath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Service\\Server.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hitmachut\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

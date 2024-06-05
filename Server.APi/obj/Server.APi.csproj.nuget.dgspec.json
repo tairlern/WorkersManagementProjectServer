@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.APi\\Server.APi.csproj": {}
+    "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.APi\\Server.APi.csproj": {}
   },
   "projects": {
-    "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.APi\\Server.APi.csproj": {
+    "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.APi\\Server.APi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.APi\\Server.APi.csproj",
+        "projectUniqueName": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.APi\\Server.APi.csproj",
         "projectName": "Server.APi",
-        "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.APi\\Server.APi.csproj",
+        "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.APi\\Server.APi.csproj",
         "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
-        "outputPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.APi\\obj\\",
+        "outputPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.APi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Core\\Server.Core.csproj": {
-                "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Core\\Server.Core.csproj"
+              "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Core\\Server.Core.csproj": {
+                "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Core\\Server.Core.csproj"
               },
-              "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Data\\Server.Data.csproj": {
-                "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Data\\Server.Data.csproj"
+              "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Data\\Server.Data.csproj": {
+                "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Data\\Server.Data.csproj"
               },
-              "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Service\\Server.Service.csproj": {
-                "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Service\\Server.Service.csproj"
+              "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Service\\Server.Service.csproj": {
+                "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Service\\Server.Service.csproj"
               }
             }
           }
@@ -49,6 +49,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,6 +69,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.28, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.6, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -89,18 +98,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Core\\Server.Core.csproj": {
+    "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Core\\Server.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Core\\Server.Core.csproj",
+        "projectUniqueName": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Core\\Server.Core.csproj",
         "projectName": "Server.Core",
-        "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Core\\Server.Core.csproj",
+        "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Core\\Server.Core.csproj",
         "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
-        "outputPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Core\\obj\\",
+        "outputPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -128,6 +137,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -155,18 +169,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Data\\Server.Data.csproj": {
+    "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Data\\Server.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Data\\Server.Data.csproj",
+        "projectUniqueName": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Data\\Server.Data.csproj",
         "projectName": "Server.Data",
-        "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Data\\Server.Data.csproj",
+        "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Data\\Server.Data.csproj",
         "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
-        "outputPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Data\\obj\\",
+        "outputPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -188,8 +202,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Core\\Server.Core.csproj": {
-                "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Core\\Server.Core.csproj"
+              "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Core\\Server.Core.csproj": {
+                "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Core\\Server.Core.csproj"
               }
             }
           }
@@ -198,6 +212,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -231,18 +250,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Service\\Server.Service.csproj": {
+    "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Service\\Server.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Service\\Server.Service.csproj",
+        "projectUniqueName": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Service\\Server.Service.csproj",
         "projectName": "Server.Service",
-        "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Service\\Server.Service.csproj",
+        "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Service\\Server.Service.csproj",
         "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
-        "outputPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Service\\obj\\",
+        "outputPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -264,8 +283,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Core\\Server.Core.csproj": {
-                "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Core\\Server.Core.csproj"
+              "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Core\\Server.Core.csproj": {
+                "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Core\\Server.Core.csproj"
               }
             }
           }
@@ -274,6 +293,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -295,7 +319,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1dVi3BuQkziuvPmC1Axchsl+TkO/WJ1d3uZHgy0luJZxf5wh9a+YBSvEv476v5tox9if0Ziwjla16K1qUtRd0A==",
+  "dgSpecHash": "IZY6r2ilfbvM8k7RsCP3IKA+c4sQoG/DTxVZbVqmdZb1h7FrFSb23fEwQYMHLhzatX0WuwNZxjdfCGmyyNscFw==",
   "success": true,
-  "projectFilePath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.APi\\Server.APi.csproj",
+  "projectFilePath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.APi\\Server.APi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hitmachut\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\hitmachut\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -34,6 +34,7 @@
     "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\hitmachut\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",

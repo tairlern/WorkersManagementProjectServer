@@ -497,6 +497,13 @@
           }
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.19.6": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props": {},
+          "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets": {}
+        }
+      },
       "Microsoft.Win32.Registry/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -1637,6 +1644,87 @@
         "microsoft.openapi.nuspec"
       ]
     },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.19.6": {
+      "sha512": "7GOQdMzQcH7o/bPFL/I2kQEgMnq2pYZ+exhGb9nNqs624K9w2jB2zieh4sOH9+a01i/G9iTWfeUI3IGMF7SKNg==",
+      "type": "package",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.19.6",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGELOG.md",
+        "EULA.md",
+        "ThirdPartyNotices.txt",
+        "build/Container.props",
+        "build/Container.targets",
+        "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props",
+        "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets",
+        "build/Rules/GeneralBrowseObject.xaml",
+        "build/Rules/cs-CZ/GeneralBrowseObject.xaml",
+        "build/Rules/de-DE/GeneralBrowseObject.xaml",
+        "build/Rules/es-ES/GeneralBrowseObject.xaml",
+        "build/Rules/fr-FR/GeneralBrowseObject.xaml",
+        "build/Rules/it-IT/GeneralBrowseObject.xaml",
+        "build/Rules/ja-JP/GeneralBrowseObject.xaml",
+        "build/Rules/ko-KR/GeneralBrowseObject.xaml",
+        "build/Rules/pl-PL/GeneralBrowseObject.xaml",
+        "build/Rules/pt-BR/GeneralBrowseObject.xaml",
+        "build/Rules/ru-RU/GeneralBrowseObject.xaml",
+        "build/Rules/tr-TR/GeneralBrowseObject.xaml",
+        "build/Rules/zh-CN/GeneralBrowseObject.xaml",
+        "build/Rules/zh-TW/GeneralBrowseObject.xaml",
+        "build/ToolsTarget.props",
+        "build/ToolsTarget.targets",
+        "icon.png",
+        "microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
+        "microsoft.visualstudio.azure.containers.tools.targets.nuspec",
+        "tools/Microsoft.VisualStudio.Containers.Tools.Common.dll",
+        "tools/Microsoft.VisualStudio.Containers.Tools.Shared.dll",
+        "tools/Microsoft.VisualStudio.Containers.Tools.Tasks.dll",
+        "tools/Newtonsoft.Json.dll",
+        "tools/System.Security.Principal.Windows.dll",
+        "tools/cs/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/cs/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/cs/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/de/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/de/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/de/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/es/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/es/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/es/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/fr/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/fr/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/fr/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/it/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/it/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/it/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/ja/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/ja/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/ja/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/ko/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/ko/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/ko/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/pl/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/pl/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/pl/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/pt-BR/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/pt-BR/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/pt-BR/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/ru/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/ru/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/ru/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/tr/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/tr/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/tr/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/utils/KillProcess.exe",
+        "tools/zh-Hans/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/zh-Hans/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/zh-Hans/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll"
+      ]
+    },
     "Microsoft.Win32.Registry/4.7.0": {
       "sha512": "KSrRMb5vNi0CWSGG1++id2ZOs/1QhRqROt+qgbEAdQuGjGrFcl4AOl4/exGPUYz2wUnU42nvJqon1T3U0kPXLA==",
       "type": "package",
@@ -2298,6 +2386,7 @@
     "net6.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.28",
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.19.6",
       "Server.Core >= 1.0.0",
       "Server.Data >= 1.0.0",
       "Server.Service >= 1.0.0",
@@ -2311,11 +2400,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.APi\\Server.APi.csproj",
+      "projectUniqueName": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.APi\\Server.APi.csproj",
       "projectName": "Server.APi",
-      "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.APi\\Server.APi.csproj",
+      "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.APi\\Server.APi.csproj",
       "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
-      "outputPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.APi\\obj\\",
+      "outputPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.APi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2337,14 +2426,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Core\\Server.Core.csproj": {
-              "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Core\\Server.Core.csproj"
+            "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Core\\Server.Core.csproj": {
+              "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Core\\Server.Core.csproj"
             },
-            "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Data\\Server.Data.csproj": {
-              "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Data\\Server.Data.csproj"
+            "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Data\\Server.Data.csproj": {
+              "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Data\\Server.Data.csproj"
             },
-            "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Service\\Server.Service.csproj": {
-              "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\פרקטיקום\\Server\\Server.Service\\Server.Service.csproj"
+            "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Service\\Server.Service.csproj": {
+              "projectPath": "Y:\\Groups\\Group_3\\ניזרי  תאיר יהודית\\הגשת פרקטיקום\\Server\\Server.Service\\Server.Service.csproj"
             }
           }
         }
@@ -2353,6 +2442,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2368,6 +2462,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[6.0.28, )"
+          },
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "target": "Package",
+            "version": "[1.19.6, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
@@ -2393,7 +2491,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }
